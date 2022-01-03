@@ -15,4 +15,6 @@ adding deppp
 
 
 
-ADDINGF MORE
+ADDINGF MORE\\
+
+COPYRIGHT NOTICE
